@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+
+    font-family: 'Poppins', sans-serif;
+}
+
+@font-face {
+    font-family: 'Azonix Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Azonix Regular'), url('./Azonix.woff') format('woff');
+    }
